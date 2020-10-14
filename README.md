@@ -6,6 +6,8 @@
 
 -- This project includes the following: 
 
+• Audio Classification
+
 • Audio Features
 
 • Balancing Imbalanced dataset
